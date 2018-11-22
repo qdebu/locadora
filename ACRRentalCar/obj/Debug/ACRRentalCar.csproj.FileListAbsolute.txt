@@ -1,0 +1,12 @@
+C:\Users\internet\Documents\Visual Studio 2017\Projects\ACRRentalCar\ACRRentalCar\bin\Debug\ACRRentalCar.exe.config
+C:\Users\internet\Documents\Visual Studio 2017\Projects\ACRRentalCar\ACRRentalCar\bin\Debug\ACRRentalCar.exe
+C:\Users\internet\Documents\Visual Studio 2017\Projects\ACRRentalCar\ACRRentalCar\bin\Debug\ACRRentalCar.pdb
+C:\Users\internet\Documents\Visual Studio 2017\Projects\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.csprojAssemblyReference.cache
+C:\Users\internet\Documents\Visual Studio 2017\Projects\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.frmPrincipal.resources
+C:\Users\internet\Documents\Visual Studio 2017\Projects\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.frmCadastroCliente.resources
+C:\Users\internet\Documents\Visual Studio 2017\Projects\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.frmConsultaCliente.resources
+C:\Users\internet\Documents\Visual Studio 2017\Projects\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.Properties.Resources.resources
+C:\Users\internet\Documents\Visual Studio 2017\Projects\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.csproj.GenerateResource.cache
+C:\Users\internet\Documents\Visual Studio 2017\Projects\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.csproj.CoreCompileInputs.cache
+C:\Users\internet\Documents\Visual Studio 2017\Projects\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.exe
+C:\Users\internet\Documents\Visual Studio 2017\Projects\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.pdb
